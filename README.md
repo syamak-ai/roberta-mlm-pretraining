@@ -1,4 +1,4 @@
-# roberta-mlm-from-scratch
+# roberta-mlm-pretraining
 
 A small RoBERTa-based masked language model trained from scratch on the writings of Immanuel Kant.
 The project explores the process of building a domain-specific language model, from training a custom Byte-Level BPE tokenizer to pretraining a RoBERTa architecture with a masked language modeling objective.
